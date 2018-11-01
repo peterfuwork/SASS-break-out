@@ -2,10 +2,10 @@
 
 ## Final Result
 
-Desktop<br />
+Desktop<br /><br />
 ![](screenshots/component_desktop.jpg)
 
-Mobile<br />
+Mobile<br /><br />
 ![](screenshots/component_mobile.jpg)
 
 ## Some useful links
@@ -18,6 +18,9 @@ https://sass-lang.com/
 
 - BEM Convention
 http://getbem.com/naming/
+
+- Can I use?
+https://caniuse.com/
 
 - How to use SASS mixins
 https://scotch.io/tutorials/how-to-use-sass-mixins
