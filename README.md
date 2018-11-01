@@ -2,10 +2,10 @@
 
 ## Final Result
 
-Desktop
+Desktop<br />
 ![](screenshots/component_desktop.jpg)
 
-Mobile
+Mobile<br />
 ![](screenshots/component_mobile.jpg)
 
 ## Some useful links
