@@ -1,6 +1,14 @@
-# This project will help you understand the SASS syntax and BEM naming convention.
+# SASS break out project
 
-Some useful links
+## Final Result
+
+Desktop
+![](screenshots/component_desktop.jpg)
+
+Mobile
+![](screenshots/component_mobile.jpg)
+
+## Some useful links
 
 - koala (SASS compiler)
 http://koala-app.com/
