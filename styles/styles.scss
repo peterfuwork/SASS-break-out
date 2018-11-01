@@ -1,0 +1,23 @@
+/* vendors */
+//@import 'vendors/bootstrap';
+
+/* util */
+@import 'util/mixins';
+@import 'util/reset';
+
+/* base */
+@import 'base/base';
+@import 'base/color';
+
+// @import 'partials/header';
+// @import 'partials/footer';
+
+@import 'components/full-block';
+
+
+.container-custom {
+    background-color: $secondary-color;
+    // @include flexbox;
+    // @include flex-direction(row);
+    color:black;
+}
